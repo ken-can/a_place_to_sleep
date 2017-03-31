@@ -21,14 +21,13 @@
 .quote1 {
     padding-top: 2em;
     font-size: 3em; 
+    text-align: center;
 }
-/*
-.teddy{
-    width: auto;
-    padding-left: 5px;
-    font-size: 35px;
-    padding-top: 2em;
-}*/
+
+.jumbotron {
+    text-align: center;
+}
+
 .p {
    color: white;
     margin-right: 0px;
